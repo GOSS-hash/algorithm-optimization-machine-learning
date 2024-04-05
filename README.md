@@ -1,2 +1,2 @@
 <!--hide-->
-# Algorithm optimization in Python - Step by step guide
+# Algorithm optimization in Python 
